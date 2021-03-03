@@ -1,4 +1,3 @@
 # Welcome to my maps!
 
-This is a testing map.
-A [basemap](my_map.html)
+This is a testing [map](my_map.html).
