@@ -1,3 +1,3 @@
 # Welcome to my maps!
 
-This is a testing [map](my_map.html).
+This is a [choropleth_map](choropleth_map.html).
